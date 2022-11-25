@@ -1,3 +1,3 @@
 # maven-project
 
-Simple Maven Project with webhook
+Simple Maven Project with webhook in next branch
